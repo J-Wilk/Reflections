@@ -3,3 +3,10 @@ the commits made. At first it is empty.
 
 The staging area allows the user to create commits of only the files that
 are sensible for that commit.
+
+We can use the staging area to commit one logical change per commit by
+only adding the files for the one logical change to the stagin area 
+before commiting. 
+
+Branches may be useful if the programmer wants to experiment with a 
+feature that they are not sure if they will use or not.
