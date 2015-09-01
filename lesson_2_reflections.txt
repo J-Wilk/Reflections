@@ -1,0 +1,5 @@
+When you initialize a repository a git directory is created that tracks 
+the commits made. At first it is empty. 
+
+The staging area allows the user to create commits of only the files that
+are sensible for that commit.
