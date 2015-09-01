@@ -1,0 +1,25 @@
+I feel that by comparing two files for differences it is a lot easier
+to find errors. 
+
+By accessing the whole history of a file you can be more efficient as
+it is easier to roll back to a previous working version if issues arise.
+
+The pros for manually choosing commits are that you can do it at
+sensible places. The cons are that you may forget to commit and end up
+with very large commits that cover multiple areas of the program.
+
+Users of Git are more likely to be using files that directly relate to
+each other so a commit could logically effect a umber of files, whereas
+in google docs this scenario of one file directly relating to another
+is less likely and would complicate the matter.
+
+git log gives a log of all commits to the repository along with the
+commit id and a message. git diff shows the differences between two
+commits using the 2 commit Ids 
+
+If it is possible to undo changes easily it would make me more
+confidant to experiment with a program as I could easily undo the damage
+.
+
+I would next like to try Git to try two diffence approaches or braches 
+from a commit.
