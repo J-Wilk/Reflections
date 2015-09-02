@@ -10,3 +10,8 @@ before commiting.
 
 Branches may be useful if the programmer wants to experiment with a 
 feature that they are not sure if they will use or not.
+
+Drawing a diagram greatly helps me to visualize the branch structure.
+
+Merging two branches together combines that changes that took place in 
+the two branches since the split.
