@@ -15,3 +15,7 @@ Drawing a diagram greatly helps me to visualize the branch structure.
 
 Merging two branches together combines that changes that took place in 
 the two branches since the split.
+
+The pros of allowing git to merge are that you dont have to go through 
+line by line looking for similarites and diffrences. The cons are you
+have to deal with conflicts and some redundant code may be merged.
